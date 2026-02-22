@@ -55,7 +55,7 @@
 
 ## 🔹 Step 1 — Data Cleaning (Python)
 
-Performed data cleaning and transformation using pandas:
+# Performed data cleaning and transformation using pandas:
 
 * Null value handling
 * Duplicate removal
@@ -68,7 +68,7 @@ Performed data cleaning and transformation using pandas:
 
 ## 🔹 Step 2 — Exploratory Data Analysis (Python)
 
-Used pandas functions for analysis:
+# Used pandas functions for analysis:
 
 * head() → Preview dataset
 * info() → Check data types & missing values
@@ -82,7 +82,7 @@ Used pandas functions for analysis:
 
 ## 🔹 Step 3 — SQL Business Analysis
 
-Performed SQL queries for insights:
+# Performed SQL queries for insights:
 
 * Total sales and profit analysis
 * Category and product performance
@@ -95,7 +95,7 @@ Performed SQL queries for insights:
 
 ## 🔹 Step 4 — Power BI Dashboard
 
-Developed an interactive dashboard including:
+# Developed an interactive dashboard including:
 
 * KPI cards for revenue, profit, cost, and quantity
 * Sales & profit trend analysis
