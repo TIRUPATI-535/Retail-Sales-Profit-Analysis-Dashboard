@@ -1,6 +1,6 @@
 
 # ⭐ Retail Sales & Profit Analysis Dashboard
---
+
 
 ## 📌 Project Overview
 
@@ -76,13 +76,8 @@ Used pandas functions for analysis:
 * isnull().sum() → Null value detection
 * drop_duplicates() → Remove duplicates
 * fillna() → Missing value handling
-* astype() → Data type correction
-* to_datetime() → Date conversion
 * groupby() → Aggregation analysis
 * value_counts() → Category distribution
-* sort_values() → Top & bottom entities
-* corr() → Relationship analysis
-
 ---
 
 ## 🔹 Step 3 — SQL Business Analysis
@@ -133,13 +128,6 @@ Developed an interactive dashboard including:
 * Data storytelling and visualization
 
 ---
-
-# ⭐ Future Improvements
-
-* Real-time data integration
-* Advanced forecasting using machine learning
-* Automated ETL pipeline
-* Enhanced financial KPI modeling
 
 ---
 
