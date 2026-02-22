@@ -2,12 +2,12 @@
 # ⭐ Retail Sales & Profit Analysis Dashboard
 
 
-## 📌 Project Overview
+# 📌 Project Overview
 
-This project focuses on building an end-to-end retail data analytics pipeline using Python, SQL, and Power BI.
-The workflow starts with a messy raw dataset containing null values, duplicates, mixed formats, and missing profit calculations. The data is cleaned and transformed using Python (pandas), stored and analyzed using SQL, and visualized through an interactive Power BI dashboard to generate business insights.
+## This project focuses on building an end-to-end retail data analytics pipeline using Python, SQL, and Power BI.
+## The workflow starts with a messy raw dataset containing null values, duplicates, mixed formats, and missing profit calculations. The data is cleaned and transformed using Python (pandas), stored and analyzed using SQL, and visualized through an interactive Power BI dashboard to generate business insights.
 
-The objective of this project is to uncover revenue trends, profitability drivers, discount impact, customer behavior, and regional performance to support data-driven decision making.
+## The objective of this project is to uncover revenue trends, profitability drivers, discount impact, customer behavior, and regional performance to support data-driven decision making.
 
 ---
 
