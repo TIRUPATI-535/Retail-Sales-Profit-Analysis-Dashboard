@@ -1,5 +1,6 @@
 
 # ⭐ Retail Sales & Profit Analysis Dashboard
+--
 
 ## 📌 Project Overview
 
@@ -120,20 +121,6 @@ Developed an interactive dashboard including:
 * Observed seasonal sales trends
 * Compared sales, cost, and profit relationships
 * Identified high-value customers
-
----
-
-# ⭐ Repository Structure
-
-Retail-Sales-Profit-Analysis-Dashboard/
-│
-├── dataset/
-├── python/
-├── sql/
-├── powerbi/
-├── screenshots/
-├── dashboard_report.pdf
-├── README.md
 
 ---
 
